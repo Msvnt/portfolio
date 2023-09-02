@@ -140,6 +140,17 @@ body{
     font-weight: 400;
 }
 
+
+.Conteudo__footer{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.logo__sant{
+   max-width: 5%;
+}
+
 @media (max-width: 1200px) {
     .cabecalho{
         padding: 10%;
